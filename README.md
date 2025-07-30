@@ -24,6 +24,3 @@ To run this project on your machine:
    ![image](https://github.com/user-attachments/assets/a106fa97-75f1-4bee-b2c5-c7cead00b4d9)
 
 
-   NOTE: I have given path of datasets and images stored in my machine. DON'T forget to modify paths when running on your PC.
-
-This project is made taking reference from the following project: https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
